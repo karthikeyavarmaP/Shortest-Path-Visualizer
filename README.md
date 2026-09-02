@@ -2,6 +2,10 @@
 
 An interactive pathfinding visualizer built using **Python and Pygame** to demonstrate and compare **Dijkstra's Algorithm** and the **A* Search Algorithm** on a grid with user-defined obstacles.
 
+## Demo
+
+![Shortest Path Visualizer Demo](path_visualizer_demo.png)
+
 ## Project Overview
 
 This project provides an interactive visualization of shortest-path algorithms.
